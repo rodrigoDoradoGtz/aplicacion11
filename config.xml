@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.example10"
+id = "com.phonegap.example11"
 versionCode = "10"
 version = "1.0.0">
 
 <!-- versionCode is optional and Android only -->
 
-<name>app 10 piano</name>
+<name>app 11 BD</name>
 
 <description>
-Aplicacion que toca el piano
+Aplicacion que conecta a BD
 </description>
 
 <preference name="phonegap-version" value="3.5.0"/>
