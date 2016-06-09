@@ -65,7 +65,7 @@ $(document).ready(function(e) {
 					{
 						a_html += "<li> No hay clientes </li>";
 					}
-					a_html += "</ul>"
+					a_html += "</ul>";
 					$("#listado").unbind().bind("pagebeforeshow", function ()
 					{
 						var $contenido = $("#listado div:jqmData(role=content)");
